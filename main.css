@@ -1,0 +1,78 @@
+body {
+	background-color: #444444;
+	color: white;
+	border: 5px solid grey;
+	margin: 30px;
+	padding: 30px;
+	font-family: sans-serif;
+}
+p {
+	line-height: 150%;
+}
+.wrapper-border-bottom {
+	border-bottom: 1px solid grey;
+	padding-bottom: 20px;
+}
+.title {
+	font-style: italic; 
+	font-weight: bold;
+}
+.text-center {
+	text-align: center
+}
+
+.title-standard {
+	font-style: normal;
+}
+.menu-item {
+	font-weight: bold;
+	color: #579677;
+	border-right: 2px solid grey;
+	padding-right: 5px;
+}
+.menu-item-active {
+	text-decoration: none;
+	color: white;
+}
+.content-img-right {
+	float:right ;
+	 margin: 1em;
+	 border: 1px solid grey;
+	 padding: 5px;
+}
+.menu-item-no-border {
+	border:none;
+}
+.wrapper-border-top {
+	border-top: 1px solid grey;
+	padding-top: 30px;
+	padding-bottom:20px;
+}
+.small-header{
+	color: grey;
+	text-transform: uppercase;
+	font-size: 20px;
+}
+li {
+	color:#d3d3d3;
+}
+.job-title {
+	font-weight: bold;
+	font-size: 18px;
+	color:white;
+}
+.company {
+	color:white;
+	font-size:18px;
+}
+.dates {
+	font-size: 15px;
+}
+.education-title {
+	font-weight: bold;
+	font-size: 18px;
+	color:white;
+}
+.summary {
+	line-height: 150%;
+}
